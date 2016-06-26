@@ -1,0 +1,37 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  position: relative;
+  background: linear-gradient(#5f8bc2, #306d39);
+}
+
+canvas {
+  margin: 0 auto;
+  display: block;
+}
+
+select {
+  top: 100px;
+  left: 56%;
+  position: absolute;
+  font-size: 2vw;
+  color: #fef81e;
+  background: none;
+  border: none;
+  outline: none;
+  -webkit-appearance: none;
+}
+
+@media screen and (min-width: 1000px) {
+  select {
+    font-size: 16px;
+  }
+}
+
+.visible {
+  display: none;
+}

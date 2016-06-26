@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "name": "wild",
+      "path": "images/SYM1.png"
+    },
+    {
+      "name": "strawberry",
+      "path": "images/SYM3.png"
+    },
+    {
+      "name": "pineapple",
+      "path": "images/SYM4.png"
+    },
+    {
+      "name": "lemon",
+      "path": "images/SYM5.png"
+    },
+    {
+      "name": "kiwi",
+      "path": "images/SYM6.png"
+    },
+    {
+      "name": "grape",
+      "path": "images/SYM7.png"
+    },
+    {
+      "name": "playButtonEnabled",
+      "path": "images/BTN_Spin.png"
+    },
+    {
+      "name": "playButtonDisabled",
+      "path": "images/BTN_Spin_d.png"
+    },
+    {
+      "name": "background",
+      "path": "images/BG.png"
+    },
+    {
+      "name": "arrow",
+      "path": "images/arrow.png"
+    }
+  ]
+}
